@@ -1,0 +1,8 @@
+colorama==0.4.1
+mysql-connector-python==8.0.20
+pep8==1.7.1
+pipenv==2020.6.2
+pylint==2.3.1
+requests==2.23.0
+virtualenv==20.0.13
+virtualenv-clone==0.5.3
